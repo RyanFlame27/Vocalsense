@@ -55,6 +55,18 @@ VocalSense is a web-based application that predicts human emotions in real-time 
 - ML: Scikit-learn, Librosa
 - Others: Web Audio API
 
+## Executable Build (Offline Version)
+
+A standalone Windows executable of VocalSense has been created using PyInstaller for offline demonstration and testing.
+Due to GitHub’s file-size restrictions, the .exe file is hosted externally on Google Drive.
+
+🔗 Download VocalSense Executable
+(https://drive.google.com/file/d/1HARCNeOOyw-sdzgu8a-fIIEW-WYd0GbT/view?usp=drive_link)
+
+Build Details
+
+Tool Used: PyInstaller
+
 ## Author
 
 - Ryan Thomas-https://github.com/RyanFlame27
